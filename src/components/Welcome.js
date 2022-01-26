@@ -1,5 +1,6 @@
 // write code for Welcome component here
 import React from "react";
+
 const Welcome = ({ name }) => {
   let sayHi = `Hey ${name}!`;
   let greetMessage = `Welcome to Newton School.`;
